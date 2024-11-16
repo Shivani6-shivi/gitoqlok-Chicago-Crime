@@ -1,0 +1,14 @@
+{
+  "qTitle": "Chicago Crime",
+  "qThumbnail": {
+    "qUrl": "/api/v1/apps/02028b50-f646-43ce-b7b9-a7bef1080734/media/files/download (2).jpeg"
+  },
+  "qUsage": "ANALYTICS",
+  "dynamicColor": "hsla(214,18%,43%,1)",
+  "encrypted": true,
+  "id": "02028b50-f646-43ce-b7b9-a7bef1080734",
+  "published": false,
+  "owner": "auth0|f4c5fd76241316706344be231ec0a1a5a22c7b200169f883e27643136792bd6b",
+  "ownerId": "671d078402a59ad3b563043e",
+  "_resourcetype": "app"
+}

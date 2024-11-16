@@ -1,0 +1,32 @@
+[
+  {
+    "qProperty": {
+      "qInfo": {
+        "qId": "aab7da06-2390-40d3-94ca-692540a72127",
+        "qType": "appprops"
+      },
+      "qMetaDef": {},
+      "sheetTitleBgColor": {
+        "color": "#000000",
+        "index": 15
+      },
+      "sheetTitleGradientColor": {
+        "color": "#ffffff",
+        "index": 1
+      },
+      "sheetTitleColor": "",
+      "sheetLogoThumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/api/v1/apps/02028b50-f646-43ce-b7b9-a7bef1080734/media/files/download (2).jpeg"
+        }
+      },
+      "sheetLogoPosition": "",
+      "rtl": false,
+      "theme": "horizon",
+      "disableCellNavMenu": false,
+      "disableCellContextMenu": false,
+      "chartAnimations": true
+    },
+    "qChildren": []
+  }
+]

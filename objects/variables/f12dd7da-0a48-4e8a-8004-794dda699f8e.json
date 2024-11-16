@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "f12dd7da-0a48-4e8a-8004-794dda699f8e",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "currentName",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "Chicago_Crimes_2018",
+  "qIsScriptCreated": true
+}
